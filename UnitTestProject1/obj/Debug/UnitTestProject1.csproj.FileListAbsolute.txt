@@ -1,0 +1,9 @@
+C:\Users\Toshiba\Desktop\Project\UnitTestProject2\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Desktop\Project\UnitTestProject2\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Toshiba\Desktop\Project\UnitTestProject2\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Toshiba\Desktop\Project\UnitTestProject2\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Toshiba\Desktop\Project\UnitTestProject2\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\Toshiba\Desktop\Final_Ass3\Assignment\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Toshiba\Desktop\Final_Ass3\Assignment\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Toshiba\Desktop\Final_Ass3\Assignment\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Toshiba\Desktop\Final_Ass3\Assignment\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
